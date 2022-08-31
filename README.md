@@ -1,0 +1,4 @@
+- 👋 Olaa, me chamo Sara Lilian Aguiar e aqui é meu espaço de desenvolvimento.
+- 🌱 Estou aprendendo Python e tenho muito interesse em outras linguagens como Java, C# e Ruby.
+-
+- ✨ < Bora acompanhar minha evolução? > 
